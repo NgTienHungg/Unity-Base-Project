@@ -1,6 +1,6 @@
 {
   "name": "com.onehit.nth.base",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "displayName": "NTH Base Project",
   "description": "Some base code and pattern like Singleton, Object Pooling, Observer, etc...",
   "unity": "2022.3",

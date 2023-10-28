@@ -8,5 +8,10 @@ namespace OneHit.Extension
           {
                return $"<color=lime>{str}</color>";
           }
+
+          public static string Error(this string str)
+          {
+               return $"<color=red>{str}</color>";
+          }
      }
 }
