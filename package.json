@@ -4,9 +4,7 @@
   "displayName": "NTH Base Project",
   "description": "Some base code and pattern like Singleton, Object Pooling, Observer, etc...",
   "unity": "2022.3",
-  "dependencies": {
-    "com.coffee.ui-effect": "https://github.com/mob-sakai/UIEffect.git"
-  },
+  "dependencies": {},
   "keywords": [
     "NTH",
     "Base"
