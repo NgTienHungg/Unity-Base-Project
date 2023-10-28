@@ -1,17 +1,18 @@
 {
-  "name": "com.onehit.base",
-  "version": "1.0.0",
-  "displayName": "One Hit Base",
-  "description": "Ads intergration",
-  "unity": "2020.3",
-  "dependencies": {},
+  "name": "com.onehit.nth.base",
+  "version": "1.0.1",
+  "displayName": "NTH Base Project",
+  "description": "Some base code and pattern like Singleton, Object Pooling, Observer, etc...",
+  "unity": "2022.3",
+  "dependencies": {
+    "com.coffee.ui-effect": "https://github.com/mob-sakai/UIEffect.git"
+  },
   "keywords": [
-    "onehit",
-    "base",
-    "ads"
+    "NTH",
+    "Base"
   ],
   "author": {
-    "name": "Nguyen Tien Hung",
+    "name": "Nguyễn Tiến Hùng",
     "email": "ngtienhungg.work@gmail.com",
     "url": "https://github.com/NgTienHungg"
   }
